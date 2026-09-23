@@ -1,0 +1,10 @@
+{
+  "name": "drawing-change-management",
+  "version": "1.0.0",
+  "private": true,
+  "description": "面向施工项目与制造企业的图纸变更管理平台",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  }
+}
